@@ -75,7 +75,7 @@ This system uses OpenCV and Dlib to detect driver drowsiness in real-time. It ca
 
 - Uses Dlib's HOG + Linear SVM based face detector
 
-<img src="face.png" width="400"/>
+<img src="https://github.com/omsingh031/Driver-Drowsiness-Detection-System/blob/main/face.PNG" width="400"/>
 
 ### 2️⃣ Facial Landmark Detection
 
