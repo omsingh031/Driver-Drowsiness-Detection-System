@@ -91,7 +91,7 @@ This system uses OpenCV and Dlib to detect driver drowsiness in real-time. It ca
 - Determines whether eyes are open or closed
 - Threshold ≈ 0.3
 
-<img src="https://github.com/omsingh031/Driver-Drowsiness-Detection-System/blob/main/eye_aspect_ratio.png" width="400"/>
+<img src="https://github.com/omsingh031/Driver-Drowsiness-Detection-System/blob/main/eye_aspect_ratio.PNG" width="400"/>
 
 ### 5️⃣ Drowsiness Logic
 
